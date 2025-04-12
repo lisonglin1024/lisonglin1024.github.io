@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "李硕硕的学术主页 | Academic Homepage of Shuoshou Li"
+title: "李嵩林的学术主页 | Academic Homepage of Songlin Li"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 欢迎访问我的学术主页！  
-Welcome to my academic homepage!
+ Welcome to my academic homepage!
 
-我叫李硕硕，目前是新疆大学的一名博士研究生，研究方向为跨模态图文检索、图文语义对齐等。  
-I am Shuoshou Li, currently a Ph.D. student at Xinjiang University. My research interests include cross-modal image-text retrieval and semantic alignment across vision and language.
+ 我叫李嵩林，目前是新疆大学的一名博士研究生，研究方向为图像操作定位、伪装物体检测和医学图像等。  
+ I am Shuoshou Li, currently a Ph.D. student at Xinjiang University. My research interests include image manipulation localization, camouflaged object detection, and medical images.  
