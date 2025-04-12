@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Shuoshou Li"
+title                    : "Songlin Li"
 title_separator          : "-"
-name                     : &name "Shuoshou Li"
-description              : &description "I am Shuoshou Li, currently a Ph.D. student at Xinjiang University."
+name                     : &name "Songlin Li"
+description              : &description "I am Songlin Li, currently a Ph.D. student at Xinjiang University."
 url                      : #https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : #"academicpages/academicpages.github.io"
@@ -23,19 +23,19 @@ repository               : #"academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Shuoshou Li"
+  name             : "Songlin Li"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "China"
   employer         : #"Red Brick University"
   uri              : # URL
-  email            : "lishuoshuo@stu.xju.edu.cn" 
+  email            : "lisl@stu.xju.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : #"https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0009-0004-7648-5742"
+  orcid            : "https://orcid.org/0009-0008-6793-5624"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
